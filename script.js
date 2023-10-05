@@ -1,5 +1,3 @@
-
-
 function signUp() {
 
     var f = document.getElementById("fname").value;
