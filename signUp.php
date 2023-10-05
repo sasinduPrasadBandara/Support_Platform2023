@@ -80,20 +80,13 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-lg-6">
-                                <label class="form-label fw-bold">Address Line 1</label>
-                                <input type="text" class="form-control" placeholder="ex:- john" id="line1" />
-                            </div>
-                            <div class="col-12 col-lg-6">
-                                <label class="form-label fw-bold">Address Line 2</label>
-                                <input type="text" class="form-control" placeholder="ex:- john" id="line2" />
-                            </div>
+                           
 
-                            <!-- <div class="col-6">
+                            <div class="col-6">
                             <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="rememberme" />
                                     <label class="form-check-label">Remember Me</label>
-                            </div> -->
+                            </div>
 
                             <div class="col-12 col-lg-6 d-grid my-3">
                                 <button class="btn text-white shadow-lg" style="background-color: #543c4f;" onclick="signUp();">Sign Up</button>
